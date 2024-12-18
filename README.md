@@ -2,6 +2,11 @@
 
 This project is a simple **login form** application built using **Vite**, **React**, **Formik**, **Yup**, **React Query**, **React Router** and **Axios**.
 
+## Live Demo
+
+You can view the live demo of this project here:  
+[Demo](https://yb-login-form-app.netlify.app)
+
 ## Technologies
 
 - **Vite**: A fast development build tool.
