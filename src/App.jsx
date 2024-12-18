@@ -7,7 +7,7 @@ import './App.css'
 const App = () => {
   return (
     <Routes>
-      <Route path="/login" element={<LoginPage />} />
+      <Route path="/" element={<LoginPage />} />
       <Route path="/profile" element={<ProfilePage />} />
     </Routes>
   )
